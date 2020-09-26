@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className="page">
-        <Button color="primary">Hello World</Button>
+        <Button style={{width:100}} color="primary">Hello World</Button>
       </div>
     </>
   );
